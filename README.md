@@ -1,2 +1,2 @@
-# CNN
-test
+# AI model
+1.CNN
